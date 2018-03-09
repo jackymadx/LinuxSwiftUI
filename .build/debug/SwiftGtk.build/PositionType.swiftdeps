@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PositionType"
+- "=="
+provides-nominal:
+- "O8SwiftGtk12PositionType"
+provides-member:
+- ["O8SwiftGtk12PositionType", ""]
+depends-top-level:
+- "=="
+- !private "FloatLiteralType"
+- !private "GTK_POS_BOTTOM"
+- !private "GTK_POS_LEFT"
+- !private "GTK_POS_RIGHT"
+- !private "GTK_POS_TOP"
+- "GtkPositionType"
+- !private "IntegerLiteralType"
+- "PositionType"
+depends-member:
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Ps7CVarArg", "hashValue"]
+- !private ["Ps10Comparable", "hashValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["Ps9Equatable", "GTK_POS_BOTTOM"]
+- !private ["Ps9Equatable", "GTK_POS_LEFT"]
+- !private ["Ps9Equatable", "GTK_POS_RIGHT"]
+- !private ["Ps9Equatable", "GTK_POS_TOP"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "bottom"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", "left"]
+- ["Ps9Equatable", "right"]
+- ["Ps9Equatable", "top"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- !private ["Ps8Hashable", "GTK_POS_BOTTOM"]
+- !private ["Ps8Hashable", "GTK_POS_LEFT"]
+- !private ["Ps8Hashable", "GTK_POS_RIGHT"]
+- !private ["Ps8Hashable", "GTK_POS_TOP"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "bottom"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", "left"]
+- ["Ps8Hashable", "right"]
+- ["Ps8Hashable", "top"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- ["O8SwiftGtk12PositionType", "=="]
+- !private ["O8SwiftGtk12PositionType", "GTK_POS_BOTTOM"]
+- !private ["O8SwiftGtk12PositionType", "GTK_POS_LEFT"]
+- !private ["O8SwiftGtk12PositionType", "GTK_POS_RIGHT"]
+- !private ["O8SwiftGtk12PositionType", "GTK_POS_TOP"]
+- ["O8SwiftGtk12PositionType", "GtkPositionType"]
+- ["O8SwiftGtk12PositionType", "_toAnyHashable"]
+- ["O8SwiftGtk12PositionType", "bottom"]
+- ["O8SwiftGtk12PositionType", "deinit"]
+- ["O8SwiftGtk12PositionType", "hashValue"]
+- ["O8SwiftGtk12PositionType", "left"]
+- ["O8SwiftGtk12PositionType", "right"]
+- ["O8SwiftGtk12PositionType", "toGtkPositionType"]
+- ["O8SwiftGtk12PositionType", "top"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["P10Foundation13_BitShiftable", "hashValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- !private ["Ps9_Hashable", "GTK_POS_BOTTOM"]
+- !private ["Ps9_Hashable", "GTK_POS_LEFT"]
+- !private ["Ps9_Hashable", "GTK_POS_RIGHT"]
+- !private ["Ps9_Hashable", "GTK_POS_TOP"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "bottom"]
+- ["Ps9_Hashable", "hashValue"]
+- ["Ps9_Hashable", "left"]
+- ["Ps9_Hashable", "right"]
+- ["Ps9_Hashable", "top"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- !private ["P10Foundation12_IntegerLike", "hashValue"]
+- !private ["P10Foundation17_ObjectBridgeable", "hashValue"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "hashValue"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- !private "Ps17BitwiseOperations"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps10MirrorPath"
+- "O8SwiftGtk12PositionType"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "P10Foundation13_BitShiftable"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "be0ec40007181f01bfd60ef0b8d70f64"

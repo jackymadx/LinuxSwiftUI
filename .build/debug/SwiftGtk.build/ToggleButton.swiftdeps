@@ -1,0 +1,294 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ToggleButton"
+provides-nominal:
+- "C8SwiftGtk12ToggleButton"
+provides-member:
+- ["C8SwiftGtk12ToggleButton", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "Button"
+- "String"
+- !private "StringLiteralType"
+- "ToggleButton"
+- "Void"
+- !private "gtk_toggle_button_get_active"
+- !private "gtk_toggle_button_get_inconsistent"
+- !private "gtk_toggle_button_get_mode"
+- !private "gtk_toggle_button_new"
+- !private "gtk_toggle_button_new_with_label"
+- !private "gtk_toggle_button_new_with_mnemonic"
+- !private "gtk_toggle_button_set_active"
+- !private "gtk_toggle_button_set_inconsistent"
+- !private "gtk_toggle_button_set_mode"
+depends-member:
+- !private ["Ps9AnyObject", "addSignal"]
+- !private ["Ps9AnyObject", "castedPointer"]
+- !private ["Ps9AnyObject", "didMoveToParent"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_get_active"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_get_inconsistent"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_get_mode"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_new"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_new_with_label"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_set_active"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_set_inconsistent"]
+- !private ["Ps9AnyObject", "gtk_toggle_button_set_mode"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "toggled"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- ["C8SwiftGtk3Bin", "Bool"]
+- ["C8SwiftGtk3Bin", "String"]
+- ["C8SwiftGtk3Bin", "ToggleButton"]
+- ["C8SwiftGtk3Bin", "Void"]
+- ["C8SwiftGtk3Bin", "active"]
+- !private ["C8SwiftGtk3Bin", "addSignal"]
+- !private ["C8SwiftGtk3Bin", "castedPointer"]
+- ["C8SwiftGtk3Bin", "didMoveToParent"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_get_active"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_get_inconsistent"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_get_mode"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_new"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_new_with_label"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_set_active"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_set_inconsistent"]
+- !private ["C8SwiftGtk3Bin", "gtk_toggle_button_set_mode"]
+- ["C8SwiftGtk3Bin", "inconsistent"]
+- ["C8SwiftGtk3Bin", "init"]
+- ["C8SwiftGtk3Bin", "mode"]
+- ["C8SwiftGtk3Bin", "toggled"]
+- !private ["C8SwiftGtk3Bin", "widgetPointer"]
+- !private ["Ps17BitwiseOperations", "toBool"]
+- !private ["Sb", "toGBoolean"]
+- ["C8SwiftGtk6Button", "Bool"]
+- ["C8SwiftGtk6Button", "String"]
+- ["C8SwiftGtk6Button", "ToggleButton"]
+- ["C8SwiftGtk6Button", "Void"]
+- ["C8SwiftGtk6Button", "active"]
+- !private ["C8SwiftGtk6Button", "addSignal"]
+- !private ["C8SwiftGtk6Button", "castedPointer"]
+- ["C8SwiftGtk6Button", "didMoveToParent"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_get_active"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_get_inconsistent"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_get_mode"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_new"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_new_with_label"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_set_active"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_set_inconsistent"]
+- !private ["C8SwiftGtk6Button", "gtk_toggle_button_set_mode"]
+- ["C8SwiftGtk6Button", "inconsistent"]
+- ["C8SwiftGtk6Button", "init"]
+- ["C8SwiftGtk6Button", "mode"]
+- ["C8SwiftGtk6Button", "toggled"]
+- !private ["C8SwiftGtk6Button", "widgetPointer"]
+- ["C8SwiftGtk6Button", ""]
+- !private ["Ps7CVarArg", "toBool"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "toBool"]
+- ["C8SwiftGtk9Container", "Bool"]
+- ["C8SwiftGtk9Container", "String"]
+- ["C8SwiftGtk9Container", "ToggleButton"]
+- ["C8SwiftGtk9Container", "Void"]
+- ["C8SwiftGtk9Container", "active"]
+- !private ["C8SwiftGtk9Container", "addSignal"]
+- !private ["C8SwiftGtk9Container", "castedPointer"]
+- ["C8SwiftGtk9Container", "didMoveToParent"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_get_active"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_get_inconsistent"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_get_mode"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_new"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_new_with_label"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_set_active"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_set_inconsistent"]
+- !private ["C8SwiftGtk9Container", "gtk_toggle_button_set_mode"]
+- ["C8SwiftGtk9Container", "inconsistent"]
+- ["C8SwiftGtk9Container", "init"]
+- ["C8SwiftGtk9Container", "mode"]
+- ["C8SwiftGtk9Container", "toggled"]
+- !private ["C8SwiftGtk9Container", "widgetPointer"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toBool"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toGBoolean"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "toBool"]
+- !private ["Ps17CustomReflectable", "toGBoolean"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "toBool"]
+- !private ["Ps23CustomStringConvertible", "toGBoolean"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "toBool"]
+- !private ["Ps9Equatable", "toGBoolean"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "toGBoolean"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "toBool"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "toBool"]
+- !private ["Ps8Hashable", "toGBoolean"]
+- !private ["Vs5Int32", "toBool"]
+- !private ["Ps7Integer", "toBool"]
+- !private ["Ps17IntegerArithmetic", "toBool"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "toGBoolean"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps13SignedInteger", "toBool"]
+- !private ["Ps12SignedNumber", "toBool"]
+- !private ["Ps10Strideable", "toBool"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["C8SwiftGtk12ToggleButton", "Bool"]
+- ["C8SwiftGtk12ToggleButton", "String"]
+- ["C8SwiftGtk12ToggleButton", "ToggleButton"]
+- ["C8SwiftGtk12ToggleButton", "Void"]
+- ["C8SwiftGtk12ToggleButton", "active"]
+- !private ["C8SwiftGtk12ToggleButton", "addSignal"]
+- !private ["C8SwiftGtk12ToggleButton", "castedPointer"]
+- ["C8SwiftGtk12ToggleButton", "deinit"]
+- ["C8SwiftGtk12ToggleButton", "didMoveToParent"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_get_active"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_get_inconsistent"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_get_mode"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_new"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_new_with_label"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_set_active"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_set_inconsistent"]
+- !private ["C8SwiftGtk12ToggleButton", "gtk_toggle_button_set_mode"]
+- ["C8SwiftGtk12ToggleButton", "inconsistent"]
+- ["C8SwiftGtk12ToggleButton", "init"]
+- ["C8SwiftGtk12ToggleButton", "mode"]
+- ["C8SwiftGtk12ToggleButton", "toggled"]
+- !private ["C8SwiftGtk12ToggleButton", "widgetPointer"]
+- ["C8SwiftGtk6Widget", "Bool"]
+- ["C8SwiftGtk6Widget", "String"]
+- ["C8SwiftGtk6Widget", "ToggleButton"]
+- ["C8SwiftGtk6Widget", "Void"]
+- ["C8SwiftGtk6Widget", "active"]
+- !private ["C8SwiftGtk6Widget", "addSignal"]
+- !private ["C8SwiftGtk6Widget", "castedPointer"]
+- ["C8SwiftGtk6Widget", "didMoveToParent"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_get_active"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_get_inconsistent"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_get_mode"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_new"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_new_with_label"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_new_with_mnemonic"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_set_active"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_set_inconsistent"]
+- !private ["C8SwiftGtk6Widget", "gtk_toggle_button_set_mode"]
+- ["C8SwiftGtk6Widget", "inconsistent"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "mode"]
+- ["C8SwiftGtk6Widget", "toggled"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- !private ["P10Foundation13_BitShiftable", "toBool"]
+- !private ["P10Foundation13_CFBridgeable", "init"]
+- !private ["P10Foundation13_CFBridgeable", "toGBoolean"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "toGBoolean"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "toBool"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "toBool"]
+- !private ["Ps9_Hashable", "toGBoolean"]
+- !private ["Ps14_Incrementable", "toBool"]
+- !private ["Ps8_Integer", "toBool"]
+- !private ["Ps18_IntegerArithmetic", "toBool"]
+- !private ["P10Foundation12_IntegerLike", "toBool"]
+- !private ["P10Foundation13_NSBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "toGBoolean"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "toGBoolean"]
+- !private ["Ps14_SignedInteger", "toBool"]
+- !private ["Ps11_Strideable", "toBool"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C8SwiftGtk3Bin"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- "C8SwiftGtk6Button"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "C8SwiftGtk9Container"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "Vs5Int32"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "C8SwiftGtk12ToggleButton"
+- "C8SwiftGtk6Widget"
+- !private "P10Foundation13_BitShiftable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "6f3139afeb0222751f45f65e93950f31"

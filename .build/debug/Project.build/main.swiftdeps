@@ -1,0 +1,160 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "site"
+- "app"
+provides-nominal:
+provides-member:
+depends-top-level:
+- "Application"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "Button"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Label"
+- "Size"
+- "StringLiteralType"
+- "Window"
+- "app"
+- "print"
+- "site"
+depends-member:
+- ["Ps9AnyObject", "add"]
+- ["Ps9AnyObject", "clicked"]
+- ["Ps9AnyObject", "defaultSize"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "resizable"]
+- ["Ps9AnyObject", "run"]
+- ["Ps9AnyObject", "showAll"]
+- ["Ps9AnyObject", "title"]
+- ["C8SwiftGtk11Application", "init"]
+- ["C8SwiftGtk11Application", "run"]
+- ["C8SwiftGtk17ApplicationWindow", "add"]
+- ["C8SwiftGtk17ApplicationWindow", "defaultSize"]
+- ["C8SwiftGtk17ApplicationWindow", "resizable"]
+- ["C8SwiftGtk17ApplicationWindow", "title"]
+- ["C8SwiftGtk3Bin", "add"]
+- ["C8SwiftGtk3Bin", "clicked"]
+- ["C8SwiftGtk3Bin", "defaultSize"]
+- ["C8SwiftGtk3Bin", "init"]
+- ["C8SwiftGtk3Bin", "resizable"]
+- ["C8SwiftGtk3Bin", "showAll"]
+- ["C8SwiftGtk3Bin", "title"]
+- ["C8SwiftGtk6Button", "clicked"]
+- ["C8SwiftGtk6Button", "init"]
+- ["Ps10Comparable", "init"]
+- ["C8SwiftGtk9Container", "add"]
+- ["C8SwiftGtk9Container", "clicked"]
+- ["C8SwiftGtk9Container", "defaultSize"]
+- ["C8SwiftGtk9Container", "init"]
+- ["C8SwiftGtk9Container", "resizable"]
+- ["C8SwiftGtk9Container", "showAll"]
+- ["C8SwiftGtk9Container", "title"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "topLevel"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "topLevel"]
+- ["C8SwiftGtk5Label", "init"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["V8SwiftGtk4Size", "init"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["C8SwiftGtk6Widget", "add"]
+- ["C8SwiftGtk6Widget", "clicked"]
+- ["C8SwiftGtk6Widget", "defaultSize"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "resizable"]
+- ["C8SwiftGtk6Widget", "showAll"]
+- ["C8SwiftGtk6Widget", "title"]
+- ["C8SwiftGtk6Window", "add"]
+- ["C8SwiftGtk6Window", "defaultSize"]
+- ["C8SwiftGtk6Window", "init"]
+- ["C8SwiftGtk6Window", "resizable"]
+- ["C8SwiftGtk6Window", "showAll"]
+- ["C8SwiftGtk6Window", "title"]
+- ["OC8SwiftGtk6Window10WindowType", "topLevel"]
+- ["P10Foundation13_CFBridgeable", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "topLevel"]
+- ["P10Foundation13_NSBridgeable", "init"]
+- ["P10Foundation17_ObjectBridgeable", "init"]
+- ["P10Foundation21_ObjectTypeBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C8SwiftGtk11Application"
+- "C8SwiftGtk17ApplicationWindow"
+- "C8SwiftGtk3Bin"
+- "C8SwiftGtk6Button"
+- "Ps10Comparable"
+- "C8SwiftGtk9Container"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "C8SwiftGtk5Label"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "V8SwiftGtk4Size"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "C8SwiftGtk6Widget"
+- "C8SwiftGtk6Window"
+- "OC8SwiftGtk6Window10WindowType"
+- "P10Foundation13_CFBridgeable"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps9_Hashable"
+- "P10Foundation13_NSBridgeable"
+- "P10Foundation17_ObjectBridgeable"
+- "P10Foundation21_ObjectTypeBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "b459c850ff31b33ae64cc5d8f36fc1df"

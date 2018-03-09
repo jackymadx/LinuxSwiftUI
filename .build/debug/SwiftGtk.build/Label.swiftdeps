@@ -1,0 +1,159 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Label"
+provides-nominal:
+- "C8SwiftGtk5Label"
+provides-member:
+- ["C8SwiftGtk5Label", ""]
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Label"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "Widget"
+- !private "gtk_label_get_selectable"
+- !private "gtk_label_get_text"
+- !private "gtk_label_new"
+- !private "gtk_label_set_selectable"
+- !private "gtk_label_set_text"
+depends-member:
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "castedPointer"]
+- !private ["Ps9AnyObject", "gtk_label_get_selectable"]
+- !private ["Ps9AnyObject", "gtk_label_get_text"]
+- !private ["Ps9AnyObject", "gtk_label_new"]
+- !private ["Ps9AnyObject", "gtk_label_set_selectable"]
+- !private ["Ps9AnyObject", "gtk_label_set_text"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "init"]
+- ["C8SwiftGtk5Label", "Bool"]
+- ["C8SwiftGtk5Label", "String"]
+- !private ["C8SwiftGtk5Label", "castedPointer"]
+- ["C8SwiftGtk5Label", "deinit"]
+- !private ["C8SwiftGtk5Label", "gtk_label_get_selectable"]
+- !private ["C8SwiftGtk5Label", "gtk_label_get_text"]
+- !private ["C8SwiftGtk5Label", "gtk_label_new"]
+- !private ["C8SwiftGtk5Label", "gtk_label_set_selectable"]
+- !private ["C8SwiftGtk5Label", "gtk_label_set_text"]
+- ["C8SwiftGtk5Label", "init"]
+- ["C8SwiftGtk5Label", "selectable"]
+- ["C8SwiftGtk5Label", "text"]
+- !private ["C8SwiftGtk5Label", "widgetPointer"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Vs12StaticString", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["C8SwiftGtk6Widget", "Bool"]
+- ["C8SwiftGtk6Widget", "String"]
+- !private ["C8SwiftGtk6Widget", "castedPointer"]
+- !private ["C8SwiftGtk6Widget", "gtk_label_get_selectable"]
+- !private ["C8SwiftGtk6Widget", "gtk_label_get_text"]
+- !private ["C8SwiftGtk6Widget", "gtk_label_new"]
+- !private ["C8SwiftGtk6Widget", "gtk_label_set_selectable"]
+- !private ["C8SwiftGtk6Widget", "gtk_label_set_text"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "selectable"]
+- ["C8SwiftGtk6Widget", "text"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- ["C8SwiftGtk6Widget", ""]
+- !private ["P10Foundation13_CFBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation13_CFBridgeable", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["P10Foundation13_NSBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- "C8SwiftGtk5Label"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Vs12StaticString"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "C8SwiftGtk6Widget"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps9_Hashable"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "417b2958e2b80dc4a42941e1781502a9"

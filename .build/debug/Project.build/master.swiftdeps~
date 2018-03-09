@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "cf01a6e7b1938b3a286a417b4660aac2"
+build_time: [573649095, 581535000]
+inputs:
+  "/home/jackycck/SwiftDev7/sources/main.swift": [573569393, 0]

@@ -1,0 +1,250 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Widget"
+provides-nominal:
+- "C8SwiftGtk6Widget"
+provides-member:
+- ["C8SwiftGtk6Widget", ""]
+depends-top-level:
+- !private "!="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Double"
+- !private "GCallback"
+- "GtkWidget"
+- !private "SignalBoxFive"
+- !private "SignalBoxFour"
+- !private "SignalBoxOne"
+- !private "SignalBoxSix"
+- !private "SignalBoxThree"
+- !private "SignalBoxTwo"
+- !private "SignalBoxZero"
+- "SignalCallbackFive"
+- "SignalCallbackFour"
+- "SignalCallbackOne"
+- "SignalCallbackSix"
+- "SignalCallbackThree"
+- "SignalCallbackTwo"
+- "SignalCallbackZero"
+- "String"
+- "UInt"
+- !private "Unmanaged"
+- "UnsafeMutablePointer"
+- !private "UnsafeMutableRawPointer"
+- !private "Void"
+- "Widget"
+- !private "connectSignal"
+- !private "disconnectSignal"
+- !private "gtk_widget_get_opacity"
+- !private "gtk_widget_hide"
+- !private "gtk_widget_set_opacity"
+- !private "gtk_widget_show"
+- !private "gtk_widget_show_all"
+- !private "gtk_widget_show_now"
+- !private "unsafeBitCast"
+depends-member:
+- !private ["Ps9AnyObject", "GCallback"]
+- !private ["Ps9AnyObject", "SignalBoxFive"]
+- !private ["Ps9AnyObject", "SignalBoxFour"]
+- !private ["Ps9AnyObject", "SignalBoxOne"]
+- !private ["Ps9AnyObject", "SignalBoxSix"]
+- !private ["Ps9AnyObject", "SignalBoxThree"]
+- !private ["Ps9AnyObject", "SignalBoxTwo"]
+- !private ["Ps9AnyObject", "SignalBoxZero"]
+- !private ["Ps9AnyObject", "Unmanaged"]
+- !private ["Ps9AnyObject", "callback"]
+- !private ["Ps9AnyObject", "connectSignal"]
+- !private ["Ps9AnyObject", "didMoveFromParent"]
+- !private ["Ps9AnyObject", "didMoveToParent"]
+- !private ["Ps9AnyObject", "disconnectSignal"]
+- !private ["Ps9AnyObject", "gtk_widget_get_opacity"]
+- !private ["Ps9AnyObject", "gtk_widget_hide"]
+- !private ["Ps9AnyObject", "gtk_widget_set_opacity"]
+- !private ["Ps9AnyObject", "gtk_widget_show"]
+- !private ["Ps9AnyObject", "gtk_widget_show_all"]
+- !private ["Ps9AnyObject", "gtk_widget_show_now"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "parentWidget"]
+- !private ["Ps9AnyObject", "removeSignals"]
+- !private ["Ps9AnyObject", "signals"]
+- !private ["Ps9AnyObject", "unsafeBitCast"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps10Collection", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "append"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps17MutableCollection", "append"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps8Sequence", "append"]
+- !private ["P8SwiftGtk9SignalBox", "callback"]
+- !private ["P8SwiftGtk9SignalBox", "init"]
+- !private ["C8SwiftGtk13SignalBoxFive", "callback"]
+- !private ["C8SwiftGtk13SignalBoxFive", "deinit"]
+- !private ["C8SwiftGtk13SignalBoxFive", "init"]
+- !private ["C8SwiftGtk13SignalBoxFour", "callback"]
+- !private ["C8SwiftGtk13SignalBoxFour", "deinit"]
+- !private ["C8SwiftGtk13SignalBoxFour", "init"]
+- !private ["C8SwiftGtk12SignalBoxOne", "callback"]
+- !private ["C8SwiftGtk12SignalBoxOne", "deinit"]
+- !private ["C8SwiftGtk12SignalBoxOne", "init"]
+- !private ["C8SwiftGtk12SignalBoxSix", "callback"]
+- !private ["C8SwiftGtk12SignalBoxSix", "deinit"]
+- !private ["C8SwiftGtk12SignalBoxSix", "init"]
+- !private ["C8SwiftGtk14SignalBoxThree", "callback"]
+- !private ["C8SwiftGtk14SignalBoxThree", "deinit"]
+- !private ["C8SwiftGtk14SignalBoxThree", "init"]
+- !private ["C8SwiftGtk12SignalBoxTwo", "callback"]
+- !private ["C8SwiftGtk12SignalBoxTwo", "deinit"]
+- !private ["C8SwiftGtk12SignalBoxTwo", "init"]
+- !private ["C8SwiftGtk13SignalBoxZero", "callback"]
+- !private ["C8SwiftGtk13SignalBoxZero", "deinit"]
+- !private ["C8SwiftGtk13SignalBoxZero", "init"]
+- !private ["Vs9Unmanaged", "passUnretained"]
+- !private ["Vs9Unmanaged", "toOpaque"]
+- ["C8SwiftGtk6Widget", "Double"]
+- !private ["C8SwiftGtk6Widget", "GCallback"]
+- ["C8SwiftGtk6Widget", "GtkWidget"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxFive"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxFour"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxOne"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxSix"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxThree"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxTwo"]
+- !private ["C8SwiftGtk6Widget", "SignalBoxZero"]
+- ["C8SwiftGtk6Widget", "SignalCallbackFive"]
+- ["C8SwiftGtk6Widget", "SignalCallbackFour"]
+- ["C8SwiftGtk6Widget", "SignalCallbackOne"]
+- ["C8SwiftGtk6Widget", "SignalCallbackSix"]
+- ["C8SwiftGtk6Widget", "SignalCallbackThree"]
+- ["C8SwiftGtk6Widget", "SignalCallbackTwo"]
+- ["C8SwiftGtk6Widget", "SignalCallbackZero"]
+- ["C8SwiftGtk6Widget", "String"]
+- ["C8SwiftGtk6Widget", "UInt"]
+- !private ["C8SwiftGtk6Widget", "Unmanaged"]
+- ["C8SwiftGtk6Widget", "UnsafeMutablePointer"]
+- !private ["C8SwiftGtk6Widget", "UnsafeMutableRawPointer"]
+- !private ["C8SwiftGtk6Widget", "Void"]
+- ["C8SwiftGtk6Widget", "Widget"]
+- ["C8SwiftGtk6Widget", "addSignal"]
+- !private ["C8SwiftGtk6Widget", "connectSignal"]
+- ["C8SwiftGtk6Widget", "deinit"]
+- ["C8SwiftGtk6Widget", "didMoveFromParent"]
+- ["C8SwiftGtk6Widget", "didMoveToParent"]
+- !private ["C8SwiftGtk6Widget", "disconnectSignal"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_get_opacity"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_hide"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_set_opacity"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_show"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_show_all"]
+- !private ["C8SwiftGtk6Widget", "gtk_widget_show_now"]
+- ["C8SwiftGtk6Widget", "hide"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "opacity"]
+- ["C8SwiftGtk6Widget", "parentWidget"]
+- !private ["C8SwiftGtk6Widget", "removeSignals"]
+- ["C8SwiftGtk6Widget", "show"]
+- ["C8SwiftGtk6Widget", "showAll"]
+- ["C8SwiftGtk6Widget", "showNow"]
+- !private ["C8SwiftGtk6Widget", "signals"]
+- !private ["C8SwiftGtk6Widget", "unsafeBitCast"]
+- ["C8SwiftGtk6Widget", "widgetPointer"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- !private ["P10Foundation13_CFBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation13_CFBridgeable", "append"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps10_Indexable", "append"]
+- !private ["Ps14_IndexableBase", "append"]
+- !private ["Ps17_MutableIndexable", "append"]
+- !private ["P10Foundation13_NSBridgeable", "append"]
+- !private ["P10Foundation17_ObjectBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation17_ObjectBridgeable", "append"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "_getBuiltinLogicValue"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "append"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- !private "Ps10Collection"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps17MutableCollection"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps8Sequence"
+- !private "P8SwiftGtk9SignalBox"
+- !private "C8SwiftGtk13SignalBoxFive"
+- !private "C8SwiftGtk13SignalBoxFour"
+- !private "C8SwiftGtk12SignalBoxOne"
+- !private "C8SwiftGtk12SignalBoxSix"
+- !private "C8SwiftGtk14SignalBoxThree"
+- !private "C8SwiftGtk12SignalBoxTwo"
+- !private "C8SwiftGtk13SignalBoxZero"
+- !private "Vs9Unmanaged"
+- "C8SwiftGtk6Widget"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "ead2079d9a19c4888e55465b2fc91078"

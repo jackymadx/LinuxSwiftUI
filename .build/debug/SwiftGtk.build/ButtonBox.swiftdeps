@@ -1,0 +1,102 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ButtonBox"
+provides-nominal:
+- "C8SwiftGtk9ButtonBox"
+provides-member:
+- ["C8SwiftGtk9ButtonBox", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Box"
+- "ButtonBox"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Orientation"
+- !private "StringLiteralType"
+- !private "gtk_button_box_new"
+depends-member:
+- !private ["Ps9AnyObject", "gtk_button_box_new"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- ["C8SwiftGtk3Box", "Orientation"]
+- !private ["C8SwiftGtk3Box", "gtk_button_box_new"]
+- ["C8SwiftGtk3Box", "init"]
+- !private ["C8SwiftGtk3Box", "widgetPointer"]
+- ["C8SwiftGtk3Box", ""]
+- ["C8SwiftGtk9ButtonBox", "Orientation"]
+- ["C8SwiftGtk9ButtonBox", "deinit"]
+- !private ["C8SwiftGtk9ButtonBox", "gtk_button_box_new"]
+- ["C8SwiftGtk9ButtonBox", "init"]
+- !private ["C8SwiftGtk9ButtonBox", "widgetPointer"]
+- ["C8SwiftGtk9Container", "Orientation"]
+- !private ["C8SwiftGtk9Container", "gtk_button_box_new"]
+- !private ["C8SwiftGtk9Container", "widgetPointer"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps9Equatable", "horizontal"]
+- !private ["Ps9Equatable", "toGtkOrientation"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "horizontal"]
+- !private ["Ps8Hashable", "toGtkOrientation"]
+- !private ["O8SwiftGtk11Orientation", "horizontal"]
+- !private ["O8SwiftGtk11Orientation", "toGtkOrientation"]
+- !private ["Vs12StaticString", "init"]
+- ["C8SwiftGtk6Widget", "Orientation"]
+- !private ["C8SwiftGtk6Widget", "gtk_button_box_new"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "horizontal"]
+- !private ["Ps9_Hashable", "toGtkOrientation"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C8SwiftGtk3Box"
+- "C8SwiftGtk9ButtonBox"
+- "C8SwiftGtk9Container"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "O8SwiftGtk11Orientation"
+- !private "Vs12StaticString"
+- "C8SwiftGtk6Widget"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "aaaa84f0af72d3b15ac9976cf26cf782"

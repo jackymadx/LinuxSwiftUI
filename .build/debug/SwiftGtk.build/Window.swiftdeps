@@ -1,0 +1,369 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Window"
+- "=="
+provides-nominal:
+- "C8SwiftGtk6Window"
+- "OC8SwiftGtk6Window10WindowType"
+provides-member:
+- ["C8SwiftGtk6Window", ""]
+- ["OC8SwiftGtk6Window10WindowType", ""]
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bin"
+- "Bool"
+- !private "FloatLiteralType"
+- !private "GTK_WINDOW_POPUP"
+- !private "GTK_WINDOW_TOPLEVEL"
+- !private "GtkWindowType"
+- !private "Int"
+- !private "Int32"
+- !private "IntegerLiteralType"
+- "Size"
+- "String"
+- !private "StringLiteralType"
+- "Window"
+- !private "gtk_window_get_default_size"
+- !private "gtk_window_get_resizable"
+- !private "gtk_window_get_title"
+- !private "gtk_window_new"
+- !private "gtk_window_set_default_size"
+- !private "gtk_window_set_resizable"
+- !private "gtk_window_set_title"
+depends-member:
+- !private ["Ps9AnyObject", "GTK_WINDOW_POPUP"]
+- !private ["Ps9AnyObject", "GTK_WINDOW_TOPLEVEL"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "Int32"]
+- !private ["Ps9AnyObject", "Size"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "castedPointer"]
+- !private ["Ps9AnyObject", "gtk_window_get_default_size"]
+- !private ["Ps9AnyObject", "gtk_window_get_resizable"]
+- !private ["Ps9AnyObject", "gtk_window_get_title"]
+- !private ["Ps9AnyObject", "gtk_window_new"]
+- !private ["Ps9AnyObject", "gtk_window_set_default_size"]
+- !private ["Ps9AnyObject", "gtk_window_set_resizable"]
+- !private ["Ps9AnyObject", "gtk_window_set_title"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- ["C8SwiftGtk3Bin", "Bool"]
+- !private ["C8SwiftGtk3Bin", "GTK_WINDOW_POPUP"]
+- !private ["C8SwiftGtk3Bin", "GTK_WINDOW_TOPLEVEL"]
+- !private ["C8SwiftGtk3Bin", "GtkWindowType"]
+- !private ["C8SwiftGtk3Bin", "Int"]
+- !private ["C8SwiftGtk3Bin", "Int32"]
+- ["C8SwiftGtk3Bin", "Size"]
+- ["C8SwiftGtk3Bin", "String"]
+- ["C8SwiftGtk3Bin", "WindowType"]
+- !private ["C8SwiftGtk3Bin", "castedPointer"]
+- ["C8SwiftGtk3Bin", "defaultSize"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_get_default_size"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_get_resizable"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_get_title"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_new"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_set_default_size"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_set_resizable"]
+- !private ["C8SwiftGtk3Bin", "gtk_window_set_title"]
+- ["C8SwiftGtk3Bin", "init"]
+- ["C8SwiftGtk3Bin", "resizable"]
+- ["C8SwiftGtk3Bin", "title"]
+- !private ["C8SwiftGtk3Bin", "widgetPointer"]
+- ["C8SwiftGtk3Bin", ""]
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Ps17BitwiseOperations", "toBool"]
+- !private ["Sb", "toGBoolean"]
+- !private ["Ps7CVarArg", "hashValue"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "toBool"]
+- !private ["Ps10Comparable", "hashValue"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "toBool"]
+- ["C8SwiftGtk9Container", "Bool"]
+- !private ["C8SwiftGtk9Container", "GTK_WINDOW_POPUP"]
+- !private ["C8SwiftGtk9Container", "GTK_WINDOW_TOPLEVEL"]
+- !private ["C8SwiftGtk9Container", "GtkWindowType"]
+- !private ["C8SwiftGtk9Container", "Int"]
+- !private ["C8SwiftGtk9Container", "Int32"]
+- ["C8SwiftGtk9Container", "Size"]
+- ["C8SwiftGtk9Container", "String"]
+- ["C8SwiftGtk9Container", "WindowType"]
+- !private ["C8SwiftGtk9Container", "castedPointer"]
+- ["C8SwiftGtk9Container", "defaultSize"]
+- !private ["C8SwiftGtk9Container", "gtk_window_get_default_size"]
+- !private ["C8SwiftGtk9Container", "gtk_window_get_resizable"]
+- !private ["C8SwiftGtk9Container", "gtk_window_get_title"]
+- !private ["C8SwiftGtk9Container", "gtk_window_new"]
+- !private ["C8SwiftGtk9Container", "gtk_window_set_default_size"]
+- !private ["C8SwiftGtk9Container", "gtk_window_set_resizable"]
+- !private ["C8SwiftGtk9Container", "gtk_window_set_title"]
+- ["C8SwiftGtk9Container", "init"]
+- ["C8SwiftGtk9Container", "resizable"]
+- ["C8SwiftGtk9Container", "title"]
+- !private ["C8SwiftGtk9Container", "widgetPointer"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toBool"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toGBoolean"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "toBool"]
+- !private ["Ps17CustomReflectable", "toGBoolean"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["Ps23CustomStringConvertible", "height"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "toBool"]
+- !private ["Ps23CustomStringConvertible", "toGBoolean"]
+- !private ["Ps23CustomStringConvertible", "width"]
+- !private ["Ps9Equatable", "GTK_WINDOW_POPUP"]
+- !private ["Ps9Equatable", "GTK_WINDOW_TOPLEVEL"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "hashValue"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "popUp"]
+- !private ["Ps9Equatable", "toBool"]
+- !private ["Ps9Equatable", "toGBoolean"]
+- !private ["Ps9Equatable", "toGtkWindowType"]
+- !private ["Ps9Equatable", "topLevel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "toGBoolean"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "toBool"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "GTK_WINDOW_POPUP"]
+- !private ["Ps8Hashable", "GTK_WINDOW_TOPLEVEL"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "hashValue"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "popUp"]
+- !private ["Ps8Hashable", "toBool"]
+- !private ["Ps8Hashable", "toGBoolean"]
+- !private ["Ps8Hashable", "toGtkWindowType"]
+- !private ["Ps8Hashable", "topLevel"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "hashValue"]
+- !private ["Si", "init"]
+- !private ["Vs5Int32", "init"]
+- !private ["Vs5Int32", "toBool"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps7Integer", "toBool"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps17IntegerArithmetic", "toBool"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "toGBoolean"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps13SignedInteger", "toBool"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps12SignedNumber", "toBool"]
+- !private ["V8SwiftGtk4Size", "height"]
+- !private ["V8SwiftGtk4Size", "init"]
+- !private ["V8SwiftGtk4Size", "width"]
+- !private ["Vs12StaticString", "init"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["Ps10Strideable", "init"]
+- !private ["Ps10Strideable", "toBool"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["C8SwiftGtk6Widget", "Bool"]
+- !private ["C8SwiftGtk6Widget", "GTK_WINDOW_POPUP"]
+- !private ["C8SwiftGtk6Widget", "GTK_WINDOW_TOPLEVEL"]
+- !private ["C8SwiftGtk6Widget", "GtkWindowType"]
+- !private ["C8SwiftGtk6Widget", "Int"]
+- !private ["C8SwiftGtk6Widget", "Int32"]
+- ["C8SwiftGtk6Widget", "Size"]
+- ["C8SwiftGtk6Widget", "String"]
+- ["C8SwiftGtk6Widget", "WindowType"]
+- !private ["C8SwiftGtk6Widget", "castedPointer"]
+- ["C8SwiftGtk6Widget", "defaultSize"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_get_default_size"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_get_resizable"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_get_title"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_new"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_set_default_size"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_set_resizable"]
+- !private ["C8SwiftGtk6Widget", "gtk_window_set_title"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "resizable"]
+- ["C8SwiftGtk6Widget", "title"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- ["C8SwiftGtk6Window", "Bool"]
+- !private ["C8SwiftGtk6Window", "GTK_WINDOW_POPUP"]
+- !private ["C8SwiftGtk6Window", "GTK_WINDOW_TOPLEVEL"]
+- !private ["C8SwiftGtk6Window", "GtkWindowType"]
+- !private ["C8SwiftGtk6Window", "Int"]
+- !private ["C8SwiftGtk6Window", "Int32"]
+- ["C8SwiftGtk6Window", "Size"]
+- ["C8SwiftGtk6Window", "String"]
+- ["C8SwiftGtk6Window", "WindowType"]
+- !private ["C8SwiftGtk6Window", "castedPointer"]
+- ["C8SwiftGtk6Window", "defaultSize"]
+- ["C8SwiftGtk6Window", "deinit"]
+- !private ["C8SwiftGtk6Window", "gtk_window_get_default_size"]
+- !private ["C8SwiftGtk6Window", "gtk_window_get_resizable"]
+- !private ["C8SwiftGtk6Window", "gtk_window_get_title"]
+- !private ["C8SwiftGtk6Window", "gtk_window_new"]
+- !private ["C8SwiftGtk6Window", "gtk_window_set_default_size"]
+- !private ["C8SwiftGtk6Window", "gtk_window_set_resizable"]
+- !private ["C8SwiftGtk6Window", "gtk_window_set_title"]
+- ["C8SwiftGtk6Window", "init"]
+- ["C8SwiftGtk6Window", "resizable"]
+- ["C8SwiftGtk6Window", "title"]
+- !private ["C8SwiftGtk6Window", "widgetPointer"]
+- ["OC8SwiftGtk6Window10WindowType", "=="]
+- !private ["OC8SwiftGtk6Window10WindowType", "GTK_WINDOW_POPUP"]
+- !private ["OC8SwiftGtk6Window10WindowType", "GTK_WINDOW_TOPLEVEL"]
+- !private ["OC8SwiftGtk6Window10WindowType", "GtkWindowType"]
+- ["OC8SwiftGtk6Window10WindowType", "_toAnyHashable"]
+- ["OC8SwiftGtk6Window10WindowType", "deinit"]
+- ["OC8SwiftGtk6Window10WindowType", "hashValue"]
+- ["OC8SwiftGtk6Window10WindowType", "popUp"]
+- !private ["OC8SwiftGtk6Window10WindowType", "toGtkWindowType"]
+- ["OC8SwiftGtk6Window10WindowType", "topLevel"]
+- !private ["P10Foundation13_BitShiftable", "hashValue"]
+- !private ["P10Foundation13_BitShiftable", "init"]
+- !private ["P10Foundation13_BitShiftable", "toBool"]
+- !private ["P10Foundation13_CFBridgeable", "init"]
+- !private ["P10Foundation13_CFBridgeable", "toGBoolean"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "toGBoolean"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "toBool"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps9_Hashable", "GTK_WINDOW_POPUP"]
+- !private ["Ps9_Hashable", "GTK_WINDOW_TOPLEVEL"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "hashValue"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "popUp"]
+- !private ["Ps9_Hashable", "toBool"]
+- !private ["Ps9_Hashable", "toGBoolean"]
+- !private ["Ps9_Hashable", "toGtkWindowType"]
+- !private ["Ps9_Hashable", "topLevel"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps14_Incrementable", "toBool"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps8_Integer", "toBool"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps18_IntegerArithmetic", "toBool"]
+- !private ["P10Foundation12_IntegerLike", "hashValue"]
+- !private ["P10Foundation12_IntegerLike", "init"]
+- !private ["P10Foundation12_IntegerLike", "toBool"]
+- !private ["P10Foundation13_NSBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "hashValue"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "toGBoolean"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "hashValue"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "toGBoolean"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps14_SignedInteger", "toBool"]
+- !private ["Ps11_Strideable", "hashValue"]
+- !private ["Ps11_Strideable", "init"]
+- !private ["Ps11_Strideable", "toBool"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C8SwiftGtk3Bin"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "C8SwiftGtk9Container"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int32"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "V8SwiftGtk4Size"
+- !private "Vs12StaticString"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "C8SwiftGtk6Widget"
+- "C8SwiftGtk6Window"
+- "OC8SwiftGtk6Window10WindowType"
+- !private "P10Foundation13_BitShiftable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "052c103a65a68f1d2ca250ff82d14e24"

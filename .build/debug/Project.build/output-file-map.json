@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/Project.build/master.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/sources/main.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/Project.build/main.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/Project.build/main.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/Project.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/Project.build/main.swiftdeps"
+  }
+}

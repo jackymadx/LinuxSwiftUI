@@ -1,0 +1,295 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TextView"
+provides-nominal:
+- "C8SwiftGtk8TextView"
+provides-member:
+- ["C8SwiftGtk8TextView", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CChar"
+- "Container"
+- "FloatLiteralType"
+- !private "Int"
+- "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- "TextView"
+- !private "UnsafeMutableRawPointer"
+- !private "UnsafeRawPointer"
+- "Void"
+- !private "gtk_text_view_get_editable"
+- !private "gtk_text_view_new"
+- !private "gtk_text_view_set_editable"
+depends-member:
+- !private ["Ps9AnyObject", "CChar"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "UnsafeRawPointer"]
+- !private ["Ps9AnyObject", "addSignal"]
+- !private ["Ps9AnyObject", "backspace"]
+- !private ["Ps9AnyObject", "castedPointer"]
+- !private ["Ps9AnyObject", "copyClipboard"]
+- !private ["Ps9AnyObject", "cutClipboard"]
+- !private ["Ps9AnyObject", "didMoveToParent"]
+- !private ["Ps9AnyObject", "gtk_text_view_get_editable"]
+- !private ["Ps9AnyObject", "gtk_text_view_new"]
+- !private ["Ps9AnyObject", "gtk_text_view_set_editable"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "insertAtCursor"]
+- !private ["Ps9AnyObject", "pasteClipboard"]
+- !private ["Ps9AnyObject", "preeditChanged"]
+- !private ["Ps9AnyObject", "selectAll"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Ps17BitwiseOperations", "toBool"]
+- !private ["Sb", "toGBoolean"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "toBool"]
+- !private ["Ps10Comparable", "bindMemory"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "toBool"]
+- ["C8SwiftGtk9Container", "Bool"]
+- !private ["C8SwiftGtk9Container", "CChar"]
+- !private ["C8SwiftGtk9Container", "Int"]
+- ["C8SwiftGtk9Container", "String"]
+- ["C8SwiftGtk9Container", "TextView"]
+- !private ["C8SwiftGtk9Container", "UnsafeMutableRawPointer"]
+- !private ["C8SwiftGtk9Container", "UnsafeRawPointer"]
+- ["C8SwiftGtk9Container", "Void"]
+- !private ["C8SwiftGtk9Container", "addSignal"]
+- ["C8SwiftGtk9Container", "backspace"]
+- !private ["C8SwiftGtk9Container", "castedPointer"]
+- ["C8SwiftGtk9Container", "copyClipboard"]
+- ["C8SwiftGtk9Container", "cutClipboard"]
+- ["C8SwiftGtk9Container", "didMoveToParent"]
+- ["C8SwiftGtk9Container", "editable"]
+- !private ["C8SwiftGtk9Container", "gtk_text_view_get_editable"]
+- !private ["C8SwiftGtk9Container", "gtk_text_view_new"]
+- !private ["C8SwiftGtk9Container", "gtk_text_view_set_editable"]
+- ["C8SwiftGtk9Container", "init"]
+- ["C8SwiftGtk9Container", "insertAtCursor"]
+- ["C8SwiftGtk9Container", "pasteClipboard"]
+- ["C8SwiftGtk9Container", "preeditChanged"]
+- ["C8SwiftGtk9Container", "selectAll"]
+- !private ["C8SwiftGtk9Container", "widgetPointer"]
+- ["C8SwiftGtk9Container", ""]
+- !private ["Ps28CustomDebugStringConvertible", "bindMemory"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "bindMemory"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toBool"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toGBoolean"]
+- !private ["Ps17CustomReflectable", "bindMemory"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "toBool"]
+- !private ["Ps17CustomReflectable", "toGBoolean"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "toBool"]
+- !private ["Ps23CustomStringConvertible", "toGBoolean"]
+- !private ["Ps9Equatable", "bindMemory"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "toBool"]
+- !private ["Ps9Equatable", "toGBoolean"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "toGBoolean"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "toBool"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "bindMemory"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "toBool"]
+- !private ["Ps8Hashable", "toGBoolean"]
+- !private ["Si", "init"]
+- !private ["Si", "toBool"]
+- !private ["Vs5Int32", "toBool"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps7Integer", "toBool"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps17IntegerArithmetic", "toBool"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "toGBoolean"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps10MirrorPath", "toBool"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps13SignedInteger", "toBool"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps12SignedNumber", "toBool"]
+- !private ["Ps10Strideable", "bindMemory"]
+- !private ["Ps10Strideable", "init"]
+- !private ["Ps10Strideable", "toBool"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["C8SwiftGtk8TextView", "Bool"]
+- !private ["C8SwiftGtk8TextView", "CChar"]
+- !private ["C8SwiftGtk8TextView", "Int"]
+- ["C8SwiftGtk8TextView", "String"]
+- ["C8SwiftGtk8TextView", "TextView"]
+- !private ["C8SwiftGtk8TextView", "UnsafeMutableRawPointer"]
+- !private ["C8SwiftGtk8TextView", "UnsafeRawPointer"]
+- ["C8SwiftGtk8TextView", "Void"]
+- !private ["C8SwiftGtk8TextView", "addSignal"]
+- ["C8SwiftGtk8TextView", "backspace"]
+- !private ["C8SwiftGtk8TextView", "castedPointer"]
+- ["C8SwiftGtk8TextView", "copyClipboard"]
+- ["C8SwiftGtk8TextView", "cutClipboard"]
+- ["C8SwiftGtk8TextView", "deinit"]
+- ["C8SwiftGtk8TextView", "didMoveToParent"]
+- ["C8SwiftGtk8TextView", "editable"]
+- !private ["C8SwiftGtk8TextView", "gtk_text_view_get_editable"]
+- !private ["C8SwiftGtk8TextView", "gtk_text_view_new"]
+- !private ["C8SwiftGtk8TextView", "gtk_text_view_set_editable"]
+- ["C8SwiftGtk8TextView", "init"]
+- ["C8SwiftGtk8TextView", "insertAtCursor"]
+- ["C8SwiftGtk8TextView", "pasteClipboard"]
+- ["C8SwiftGtk8TextView", "preeditChanged"]
+- ["C8SwiftGtk8TextView", "selectAll"]
+- !private ["C8SwiftGtk8TextView", "widgetPointer"]
+- !private ["SV", "bindMemory"]
+- !private ["SV", "init"]
+- ["C8SwiftGtk6Widget", "Bool"]
+- !private ["C8SwiftGtk6Widget", "CChar"]
+- !private ["C8SwiftGtk6Widget", "Int"]
+- ["C8SwiftGtk6Widget", "String"]
+- ["C8SwiftGtk6Widget", "TextView"]
+- !private ["C8SwiftGtk6Widget", "UnsafeMutableRawPointer"]
+- !private ["C8SwiftGtk6Widget", "UnsafeRawPointer"]
+- ["C8SwiftGtk6Widget", "Void"]
+- !private ["C8SwiftGtk6Widget", "addSignal"]
+- ["C8SwiftGtk6Widget", "backspace"]
+- !private ["C8SwiftGtk6Widget", "castedPointer"]
+- ["C8SwiftGtk6Widget", "copyClipboard"]
+- ["C8SwiftGtk6Widget", "cutClipboard"]
+- ["C8SwiftGtk6Widget", "didMoveToParent"]
+- ["C8SwiftGtk6Widget", "editable"]
+- !private ["C8SwiftGtk6Widget", "gtk_text_view_get_editable"]
+- !private ["C8SwiftGtk6Widget", "gtk_text_view_new"]
+- !private ["C8SwiftGtk6Widget", "gtk_text_view_set_editable"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "insertAtCursor"]
+- ["C8SwiftGtk6Widget", "pasteClipboard"]
+- ["C8SwiftGtk6Widget", "preeditChanged"]
+- ["C8SwiftGtk6Widget", "selectAll"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- !private ["P10Foundation13_BitShiftable", "init"]
+- !private ["P10Foundation13_BitShiftable", "toBool"]
+- !private ["P10Foundation13_CFBridgeable", "init"]
+- !private ["P10Foundation13_CFBridgeable", "toGBoolean"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "toGBoolean"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "toBool"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps9_Hashable", "bindMemory"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "toBool"]
+- !private ["Ps9_Hashable", "toGBoolean"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps14_Incrementable", "toBool"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps8_Integer", "toBool"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps18_IntegerArithmetic", "toBool"]
+- !private ["P10Foundation12_IntegerLike", "init"]
+- !private ["P10Foundation12_IntegerLike", "toBool"]
+- !private ["P10Foundation13_NSBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "toBool"]
+- !private ["P10Foundation17_ObjectBridgeable", "toGBoolean"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "toBool"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "toGBoolean"]
+- !private ["Ps8_Pointer", "bindMemory"]
+- !private ["Ps8_Pointer", "init"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps14_SignedInteger", "toBool"]
+- !private ["Ps11_Strideable", "bindMemory"]
+- !private ["Ps11_Strideable", "init"]
+- !private ["Ps11_Strideable", "toBool"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "C8SwiftGtk9Container"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int32"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "C8SwiftGtk8TextView"
+- !private "SV"
+- "C8SwiftGtk6Widget"
+- !private "P10Foundation13_BitShiftable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps8_Pointer"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "4219624ee244751075a07e03b6bc5b62"

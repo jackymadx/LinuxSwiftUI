@@ -1,0 +1,157 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConnectFlags"
+- "connectSignal"
+- "connectSignal"
+- "disconnectSignal"
+- "=="
+provides-nominal:
+- "O8SwiftGtk12ConnectFlags"
+provides-member:
+- ["O8SwiftGtk12ConnectFlags", ""]
+depends-top-level:
+- "=="
+- "ConnectFlags"
+- !private "FloatLiteralType"
+- "GCallback"
+- !private "GConnectFlags"
+- !private "G_CONNECT_AFTER"
+- !private "G_CONNECT_SWAPPED"
+- !private "IntegerLiteralType"
+- "String"
+- "UInt"
+- "UnsafeMutablePointer"
+- "UnsafeRawPointer"
+- "connectSignal"
+- "disconnectSignal"
+- !private "g_signal_connect_data"
+- !private "g_signal_handler_disconnect"
+depends-member:
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Ps7CVarArg", "hashValue"]
+- !private ["Ps10Comparable", "cast"]
+- !private ["Ps10Comparable", "hashValue"]
+- ["O8SwiftGtk12ConnectFlags", "=="]
+- !private ["O8SwiftGtk12ConnectFlags", "GConnectFlags"]
+- !private ["O8SwiftGtk12ConnectFlags", "G_CONNECT_AFTER"]
+- !private ["O8SwiftGtk12ConnectFlags", "G_CONNECT_SWAPPED"]
+- ["O8SwiftGtk12ConnectFlags", "_toAnyHashable"]
+- ["O8SwiftGtk12ConnectFlags", "after"]
+- ["O8SwiftGtk12ConnectFlags", "deinit"]
+- ["O8SwiftGtk12ConnectFlags", "hashValue"]
+- ["O8SwiftGtk12ConnectFlags", "swapped"]
+- !private ["O8SwiftGtk12ConnectFlags", "toGConnectFlags"]
+- !private ["Ps28CustomDebugStringConvertible", "cast"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "cast"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- !private ["Ps17CustomReflectable", "cast"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["Ps9Equatable", "G_CONNECT_AFTER"]
+- !private ["Ps9Equatable", "G_CONNECT_SWAPPED"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- !private ["Ps9Equatable", "after"]
+- !private ["Ps9Equatable", "cast"]
+- ["Ps9Equatable", "hashValue"]
+- !private ["Ps9Equatable", "swapped"]
+- !private ["Ps9Equatable", "toGConnectFlags"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- !private ["Ps8Hashable", "G_CONNECT_AFTER"]
+- !private ["Ps8Hashable", "G_CONNECT_SWAPPED"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- !private ["Ps8Hashable", "after"]
+- !private ["Ps8Hashable", "cast"]
+- ["Ps8Hashable", "hashValue"]
+- !private ["Ps8Hashable", "swapped"]
+- !private ["Ps8Hashable", "toGConnectFlags"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["Ps10Strideable", "cast"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["SV", "cast"]
+- !private ["P10Foundation13_BitShiftable", "hashValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- !private ["Ps9_Hashable", "G_CONNECT_AFTER"]
+- !private ["Ps9_Hashable", "G_CONNECT_SWAPPED"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- !private ["Ps9_Hashable", "after"]
+- !private ["Ps9_Hashable", "cast"]
+- ["Ps9_Hashable", "hashValue"]
+- !private ["Ps9_Hashable", "swapped"]
+- !private ["Ps9_Hashable", "toGConnectFlags"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- !private ["P10Foundation12_IntegerLike", "hashValue"]
+- !private ["P10Foundation17_ObjectBridgeable", "hashValue"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "hashValue"]
+- !private ["Ps8_Pointer", "cast"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "cast"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- !private "Ps17BitwiseOperations"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "O8SwiftGtk12ConnectFlags"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps10MirrorPath"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "SV"
+- !private "P10Foundation13_BitShiftable"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps8_Pointer"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "16c8b1c0a0655bd45e302ecb52e52a2b"

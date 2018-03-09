@@ -1,0 +1,149 @@
+{
+  "": {
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/master.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Widget+CastedPointer.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget+CastedPointer.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget+CastedPointer.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget+CastedPointer~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget+CastedPointer.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Signals.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Signals.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Signals.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Signals~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Signals.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Image.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Image.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Image.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Image~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Image.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Label.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Label.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Label.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Label~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Label.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Bin.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Bin.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Bin.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Bin~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Bin.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/PositionType.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/PositionType.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/PositionType.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/PositionType~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/PositionType.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Container.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Container.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Container.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Container~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Container.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Widget.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Widget.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Button.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Button.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Button.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Button~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Button.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/TextView.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/TextView.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/TextView.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/TextView~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/TextView.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Orientation.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Orientation.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Orientation.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Orientation~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Orientation.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/ButtonBox.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ButtonBox.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ButtonBox.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ButtonBox~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ButtonBox.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Value.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Value.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Value.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Value.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Window.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Window.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Window.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Window~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Window.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/SignalBox.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/SignalBox.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/SignalBox.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/SignalBox~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/SignalBox.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Common.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Common.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Common.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Common~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Common.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Calendar.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Calendar.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Calendar.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Calendar~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Calendar.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/ApplicationWindow.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ApplicationWindow.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ApplicationWindow.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ApplicationWindow~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ApplicationWindow.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Size.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Size.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Size.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Size~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Size.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Box.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Box.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Box.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Box~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Box.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/BaselinePosition.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/BaselinePosition.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/BaselinePosition.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/BaselinePosition~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/BaselinePosition.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/ToggleButton.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ToggleButton.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ToggleButton.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ToggleButton~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/ToggleButton.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Application.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Application.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Application.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Application.swiftdeps"
+  },
+  "/home/jackycck/SwiftDev7/.build/checkouts/SwiftGtk-9216020197532268736/Sources/Grid.swift": {
+    "dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Grid.d",
+    "object": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Grid.swift.o",
+    "swiftmodule": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Grid~partial.swiftmodule",
+    "swift-dependencies": "/home/jackycck/SwiftDev7/.build/debug/SwiftGtk.build/Grid.swiftdeps"
+  }
+}

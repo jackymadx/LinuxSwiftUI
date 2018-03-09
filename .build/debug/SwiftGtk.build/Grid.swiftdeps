@@ -1,0 +1,427 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Grid"
+provides-nominal:
+- "C8SwiftGtk4Grid"
+provides-member:
+- ["C8SwiftGtk4Grid", ""]
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "BaselinePosition"
+- "Bool"
+- "Container"
+- "Grid"
+- "Int"
+- "PositionType"
+- "Widget"
+- !private "gint"
+- !private "gtk_grid_attach"
+- !private "gtk_grid_attach_next_to"
+- !private "gtk_grid_get_baseline_row"
+- !private "gtk_grid_get_child_at"
+- !private "gtk_grid_get_column_homogeneous"
+- !private "gtk_grid_get_column_spacing"
+- !private "gtk_grid_get_row_baseline_position"
+- !private "gtk_grid_get_row_homogeneous"
+- !private "gtk_grid_get_row_spacing"
+- !private "gtk_grid_insert_column"
+- !private "gtk_grid_insert_next_to"
+- !private "gtk_grid_insert_row"
+- !private "gtk_grid_new"
+- !private "gtk_grid_remove_column"
+- !private "gtk_grid_remove_row"
+- !private "gtk_grid_set_baseline_row"
+- !private "gtk_grid_set_column_homogeneous"
+- !private "gtk_grid_set_column_spacing"
+- !private "gtk_grid_set_row_baseline_position"
+- !private "gtk_grid_set_row_homogeneous"
+- !private "gtk_grid_set_row_spacing"
+- !private "guint"
+depends-member:
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "castedPointer"]
+- !private ["Ps9AnyObject", "gint"]
+- !private ["Ps9AnyObject", "gtk_grid_attach"]
+- !private ["Ps9AnyObject", "gtk_grid_attach_next_to"]
+- !private ["Ps9AnyObject", "gtk_grid_get_baseline_row"]
+- !private ["Ps9AnyObject", "gtk_grid_get_child_at"]
+- !private ["Ps9AnyObject", "gtk_grid_get_column_homogeneous"]
+- !private ["Ps9AnyObject", "gtk_grid_get_column_spacing"]
+- !private ["Ps9AnyObject", "gtk_grid_get_row_baseline_position"]
+- !private ["Ps9AnyObject", "gtk_grid_get_row_homogeneous"]
+- !private ["Ps9AnyObject", "gtk_grid_get_row_spacing"]
+- !private ["Ps9AnyObject", "gtk_grid_insert_column"]
+- !private ["Ps9AnyObject", "gtk_grid_insert_next_to"]
+- !private ["Ps9AnyObject", "gtk_grid_insert_row"]
+- !private ["Ps9AnyObject", "gtk_grid_new"]
+- !private ["Ps9AnyObject", "gtk_grid_remove_column"]
+- !private ["Ps9AnyObject", "gtk_grid_remove_row"]
+- !private ["Ps9AnyObject", "gtk_grid_set_baseline_row"]
+- !private ["Ps9AnyObject", "gtk_grid_set_column_homogeneous"]
+- !private ["Ps9AnyObject", "gtk_grid_set_column_spacing"]
+- !private ["Ps9AnyObject", "gtk_grid_set_row_baseline_position"]
+- !private ["Ps9AnyObject", "gtk_grid_set_row_homogeneous"]
+- !private ["Ps9AnyObject", "gtk_grid_set_row_spacing"]
+- !private ["Ps9AnyObject", "guint"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "parentWidget"]
+- !private ["Ps9AnyObject", "widgetPointer"]
+- !private ["Ps9AnyObject", "widgets"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- !private ["Sa", "first"]
+- !private ["O8SwiftGtk16BaselinePosition", "toGtkBaselinePosition"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- !private ["Ps23BidirectionalCollection", "first"]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Ps17BitwiseOperations", "toBool"]
+- !private ["Sb", "toGBoolean"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "toBool"]
+- !private ["Ps10Collection", "append"]
+- !private ["Ps10Collection", "first"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "toBool"]
+- ["C8SwiftGtk9Container", "BaselinePosition"]
+- ["C8SwiftGtk9Container", "Bool"]
+- ["C8SwiftGtk9Container", "Int"]
+- ["C8SwiftGtk9Container", "PositionType"]
+- ["C8SwiftGtk9Container", "Widget"]
+- ["C8SwiftGtk9Container", "attach"]
+- ["C8SwiftGtk9Container", "baselineRow"]
+- !private ["C8SwiftGtk9Container", "castedPointer"]
+- ["C8SwiftGtk9Container", "columnHomogeneous"]
+- ["C8SwiftGtk9Container", "columnSpacing"]
+- ["C8SwiftGtk9Container", "getChildAt"]
+- ["C8SwiftGtk9Container", "getRowBaselinePosition"]
+- !private ["C8SwiftGtk9Container", "gint"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_attach"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_attach_next_to"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_baseline_row"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_child_at"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_column_homogeneous"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_column_spacing"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_row_baseline_position"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_row_homogeneous"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_get_row_spacing"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_insert_column"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_insert_next_to"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_insert_row"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_new"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_remove_column"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_remove_row"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_baseline_row"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_column_homogeneous"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_column_spacing"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_row_baseline_position"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_row_homogeneous"]
+- !private ["C8SwiftGtk9Container", "gtk_grid_set_row_spacing"]
+- !private ["C8SwiftGtk9Container", "guint"]
+- ["C8SwiftGtk9Container", "init"]
+- ["C8SwiftGtk9Container", "insert"]
+- ["C8SwiftGtk9Container", "insertColumn"]
+- ["C8SwiftGtk9Container", "insertRow"]
+- ["C8SwiftGtk9Container", "removeColumn"]
+- ["C8SwiftGtk9Container", "removeRow"]
+- ["C8SwiftGtk9Container", "rowHomogeneous"]
+- ["C8SwiftGtk9Container", "rowSpacing"]
+- ["C8SwiftGtk9Container", "setRowBaselinePosition"]
+- !private ["C8SwiftGtk9Container", "widgetPointer"]
+- !private ["C8SwiftGtk9Container", "widgets"]
+- ["C8SwiftGtk9Container", ""]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "first"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toBool"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "toGBoolean"]
+- !private ["Ps17CustomReflectable", "append"]
+- !private ["Ps17CustomReflectable", "first"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "toBool"]
+- !private ["Ps17CustomReflectable", "toGBoolean"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps23CustomStringConvertible", "first"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "toBool"]
+- !private ["Ps23CustomStringConvertible", "toGBoolean"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "toBaselinePosition"]
+- !private ["Ps9Equatable", "toBool"]
+- !private ["Ps9Equatable", "toGBoolean"]
+- !private ["Ps9Equatable", "toGtkBaselinePosition"]
+- !private ["Ps9Equatable", "toGtkPositionType"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- !private ["Ps25ExpressibleByArrayLiteral", "first"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "toGBoolean"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "toBool"]
+- ["C8SwiftGtk4Grid", "BaselinePosition"]
+- ["C8SwiftGtk4Grid", "Bool"]
+- ["C8SwiftGtk4Grid", "Int"]
+- ["C8SwiftGtk4Grid", "PositionType"]
+- ["C8SwiftGtk4Grid", "Widget"]
+- ["C8SwiftGtk4Grid", "attach"]
+- ["C8SwiftGtk4Grid", "baselineRow"]
+- !private ["C8SwiftGtk4Grid", "castedPointer"]
+- ["C8SwiftGtk4Grid", "columnHomogeneous"]
+- ["C8SwiftGtk4Grid", "columnSpacing"]
+- ["C8SwiftGtk4Grid", "deinit"]
+- ["C8SwiftGtk4Grid", "getChildAt"]
+- ["C8SwiftGtk4Grid", "getRowBaselinePosition"]
+- !private ["C8SwiftGtk4Grid", "gint"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_attach"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_attach_next_to"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_baseline_row"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_child_at"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_column_homogeneous"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_column_spacing"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_row_baseline_position"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_row_homogeneous"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_get_row_spacing"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_insert_column"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_insert_next_to"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_insert_row"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_new"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_remove_column"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_remove_row"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_baseline_row"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_column_homogeneous"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_column_spacing"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_row_baseline_position"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_row_homogeneous"]
+- !private ["C8SwiftGtk4Grid", "gtk_grid_set_row_spacing"]
+- !private ["C8SwiftGtk4Grid", "guint"]
+- ["C8SwiftGtk4Grid", "init"]
+- ["C8SwiftGtk4Grid", "insert"]
+- ["C8SwiftGtk4Grid", "insertColumn"]
+- ["C8SwiftGtk4Grid", "insertRow"]
+- ["C8SwiftGtk4Grid", "removeColumn"]
+- ["C8SwiftGtk4Grid", "removeRow"]
+- ["C8SwiftGtk4Grid", "rowHomogeneous"]
+- ["C8SwiftGtk4Grid", "rowSpacing"]
+- ["C8SwiftGtk4Grid", "setRowBaselinePosition"]
+- !private ["C8SwiftGtk4Grid", "widgetPointer"]
+- !private ["C8SwiftGtk4Grid", "widgets"]
+- !private ["VSC19GtkBaselinePosition", "toBaselinePosition"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "toBool"]
+- !private ["Ps8Hashable", "toGBoolean"]
+- !private ["Ps8Hashable", "toGtkBaselinePosition"]
+- !private ["Ps8Hashable", "toGtkPositionType"]
+- !private ["Si", "init"]
+- !private ["Vs5Int32", "init"]
+- !private ["Vs5Int32", "toBool"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps7Integer", "toBool"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps17IntegerArithmetic", "toBool"]
+- !private ["Ps25LosslessStringConvertible", "toGBoolean"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "append"]
+- !private ["Ps17MutableCollection", "first"]
+- !private ["O8SwiftGtk12PositionType", "toGtkPositionType"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps22RandomAccessCollection", "first"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "first"]
+- !private ["Ps16RawRepresentable", "toBaselinePosition"]
+- !private ["Ps8Sequence", "append"]
+- !private ["Ps8Sequence", "first"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps13SignedInteger", "toBool"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps12SignedNumber", "toBool"]
+- !private ["Ps10Strideable", "init"]
+- !private ["Ps10Strideable", "toBool"]
+- !private ["Vs6UInt32", "init"]
+- !private ["Ps15UnsignedInteger", "init"]
+- ["C8SwiftGtk6Widget", "BaselinePosition"]
+- ["C8SwiftGtk6Widget", "Bool"]
+- ["C8SwiftGtk6Widget", "Int"]
+- ["C8SwiftGtk6Widget", "PositionType"]
+- ["C8SwiftGtk6Widget", "Widget"]
+- ["C8SwiftGtk6Widget", "attach"]
+- ["C8SwiftGtk6Widget", "baselineRow"]
+- !private ["C8SwiftGtk6Widget", "castedPointer"]
+- ["C8SwiftGtk6Widget", "columnHomogeneous"]
+- ["C8SwiftGtk6Widget", "columnSpacing"]
+- ["C8SwiftGtk6Widget", "getChildAt"]
+- ["C8SwiftGtk6Widget", "getRowBaselinePosition"]
+- !private ["C8SwiftGtk6Widget", "gint"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_attach"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_attach_next_to"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_baseline_row"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_child_at"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_column_homogeneous"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_column_spacing"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_row_baseline_position"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_row_homogeneous"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_get_row_spacing"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_insert_column"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_insert_next_to"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_insert_row"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_new"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_remove_column"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_remove_row"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_baseline_row"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_column_homogeneous"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_column_spacing"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_row_baseline_position"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_row_homogeneous"]
+- !private ["C8SwiftGtk6Widget", "gtk_grid_set_row_spacing"]
+- !private ["C8SwiftGtk6Widget", "guint"]
+- ["C8SwiftGtk6Widget", "init"]
+- ["C8SwiftGtk6Widget", "insert"]
+- ["C8SwiftGtk6Widget", "insertColumn"]
+- ["C8SwiftGtk6Widget", "insertRow"]
+- !private ["C8SwiftGtk6Widget", "parentWidget"]
+- ["C8SwiftGtk6Widget", "removeColumn"]
+- ["C8SwiftGtk6Widget", "removeRow"]
+- ["C8SwiftGtk6Widget", "rowHomogeneous"]
+- ["C8SwiftGtk6Widget", "rowSpacing"]
+- ["C8SwiftGtk6Widget", "setRowBaselinePosition"]
+- !private ["C8SwiftGtk6Widget", "widgetPointer"]
+- !private ["C8SwiftGtk6Widget", "widgets"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps14_ArrayProtocol", "first"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- !private ["Ps23_BidirectionalIndexable", "first"]
+- !private ["P10Foundation13_BitShiftable", "init"]
+- !private ["P10Foundation13_BitShiftable", "toBool"]
+- !private ["P10Foundation13_CFBridgeable", "append"]
+- !private ["P10Foundation13_CFBridgeable", "first"]
+- !private ["P10Foundation13_CFBridgeable", "toGBoolean"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- !private ["Ps24_DestructorSafeContainer", "first"]
+- !private ["Ps28_DisallowMixedSignArithmetic", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "toGBoolean"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "toBool"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "toBool"]
+- !private ["Ps9_Hashable", "toGBoolean"]
+- !private ["Ps9_Hashable", "toGtkBaselinePosition"]
+- !private ["Ps9_Hashable", "toGtkPositionType"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps14_Incrementable", "toBool"]
+- !private ["Ps10_Indexable", "append"]
+- !private ["Ps10_Indexable", "first"]
+- !private ["Ps14_IndexableBase", "append"]
+- !private ["Ps14_IndexableBase", "first"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps8_Integer", "toBool"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps18_IntegerArithmetic", "toBool"]
+- !private ["P10Foundation12_IntegerLike", "init"]
+- !private ["P10Foundation12_IntegerLike", "toBool"]
+- !private ["Ps17_MutableIndexable", "append"]
+- !private ["Ps17_MutableIndexable", "first"]
+- !private ["P10Foundation13_NSBridgeable", "append"]
+- !private ["P10Foundation13_NSBridgeable", "first"]
+- !private ["P10Foundation17_ObjectBridgeable", "append"]
+- !private ["P10Foundation17_ObjectBridgeable", "first"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "toGBoolean"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "append"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "first"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "toGBoolean"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- !private ["Ps22_RandomAccessIndexable", "first"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+- !private ["Ps26_RangeReplaceableIndexable", "first"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps14_SignedInteger", "toBool"]
+- !private ["Ps11_Strideable", "init"]
+- !private ["Ps11_Strideable", "toBool"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "O8SwiftGtk16BaselinePosition"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "C8SwiftGtk9Container"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "C8SwiftGtk4Grid"
+- !private "VSC19GtkBaselinePosition"
+- !private "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int32"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "O8SwiftGtk12PositionType"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "Vs6UInt32"
+- !private "Ps15UnsignedInteger"
+- "C8SwiftGtk6Widget"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "P10Foundation13_BitShiftable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps28_DisallowMixedSignArithmetic"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "P10Foundation12_IntegerLike"
+- !private "Ps17_MutableIndexable"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/LibcShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/FoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/HeapObject.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/RefCount.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/Visibility.h"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/jackycck/SwiftDev7/.build/checkouts/CGtk-Linux-1679347816078390339/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/dispatch/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/jackycck/swiftDev/swiftDev/usr/lib/swift/shims/module.modulemap"
+interface-hash: "4b038cedf02ff7695352646a89134bab"
